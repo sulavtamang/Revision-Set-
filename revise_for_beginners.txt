@@ -1,0 +1,23 @@
+Revise for beginners
+ This set covers basic as revision for beginners who have yet to grab solid grasp on language
+ fundaments of python– This is curated for Python class students specifically for batch of 19nov (3:00 PM Group)
+
+ 1. Write a Python program to take two numbers as input from the user and
+ print their sum, difference, product, and division. Ensure the program
+ handles division by zero gracefully.
+
+ 2. Write a Python program that takes a string input from the user, converts
+ it to lowercase, and prints both the original string and the lowercase
+ version.
+
+ 3. Write a Python program to take a list of numbers as input from the user
+ and print the largest number in the list.
+
+ 4. Write a Python program to take a tuple of numbers as input from the
+ user and print all the numbers in the tuple.
+
+ 5. Write a Python program to define a dictionary with three keys (name,
+ age, city) and assign any values to them, then print the dictionary.
+ 
+ 6. Write a Python program that takes a string as input and counts how
+ many times the letter a appears in it.
